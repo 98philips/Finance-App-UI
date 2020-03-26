@@ -1,4 +1,4 @@
-# manager
+# Finance Manager
 
 Flutter Finance Management Application UI
 
